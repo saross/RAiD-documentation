@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
-=======================================
+Research Activity Identifier (RAiD) Metadata Schema
+===================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This document presents the RAiD metadata schema.
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+
+Built using ReadtheDocs: https://docs.readthedocs.io/
