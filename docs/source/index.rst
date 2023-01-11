@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   Core
-   Extended
+   core
+   extended
