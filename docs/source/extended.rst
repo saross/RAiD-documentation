@@ -1,5 +1,5 @@
-Extended
-========
+Extended Metadata Schema Elements
+=================================
 
 .. autosummary::
    :toctree: generated

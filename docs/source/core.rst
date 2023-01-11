@@ -1,5 +1,5 @@
-Core
-====
+Core Metadata Schema Elements
+=============================
 
 .. autosummary::
    :toctree: generated
